@@ -2,7 +2,7 @@
 
 Cette revue de presse généraliste et mensuelle a pour but de sensibiliser le public aux problématiques de la sécurité informatique.
 Vous devez vous inscrire si vous souhaitez recevoir la lettre. Pour l'inscription (ou la désinscription) et la consultation des archives : https://groupes.renater.fr/sympa/arc/securite-informatique
-Vous pouvez également retrouver toutes les lettres sur [GitLab](https://groupes.renater.fr/sympa/info/securite-informatique) 
+Vous pouvez également retrouver toutes les lettres sur [GitLab](https://gitlab.com/CedricGoby/newsletter-securite-informatique) 
 
 ## SECURITE & CYBERSECURITÉ
 ### Pourquoi il est difficile de croire ce que dit Google
