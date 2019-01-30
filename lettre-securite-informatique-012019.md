@@ -88,8 +88,6 @@ Ce logiciel répertorie 1,4 milliard de liens sur le dark web, là où drogues, 
 https://www.lepoint.fr/high-tech-internet/aleph-le-google-du-dark-web-27-12-2018-2282006_47.php  
 Source : Le Point
 
-## DRONES
-
 ## IoT
 ### De multiples vulnérabilités zéro day découvertes dans les technologies d’accès aux bâtiments
 Un attaquant pourrait prendre le contrôle sur des bâtiments en exploitant des failles non corrigées pour créer des badges frauduleux et désactiver les serrures des bâtiments.  
@@ -116,8 +114,6 @@ Source : France Inter
 Quel est son parcours et d’où lui est venue sa passion pour les mathématiques ? Pourquoi appelle-t-elle les algorithmes des “armes de destruction mathématiques” ? Comment ces nouveaux pouvoirs algorithmiques transforment-ils les pratiques professionnelles de la société ?  
 https://www.franceculture.fr/emissions/la-methode-scientifique/cathy-oneil-pour-une-ethique-des-algorithmes  
 Source : France Culture
-
-## TUTOS & GUIDES
 
 ## PLUS TECHNIQUE
 ### Les fichiers log, des indicateurs utiles
