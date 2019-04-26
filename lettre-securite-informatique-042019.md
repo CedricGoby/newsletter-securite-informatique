@@ -4,7 +4,7 @@ Cette revue de presse généraliste et mensuelle a pour but de sensibiliser le p
 Vous devez vous inscrire si vous souhaitez recevoir la lettre. Pour l'inscription (ou la désinscription) et la consultation des archives : https://groupes.renater.fr/sympa/arc/securite-informatique
 Vous pouvez également retrouver toutes les lettres sur GitLab : https://gitlab.com/CedricGoby/newsletter-securite-informatique
 
-## SECURITE & CYBERSECURITÉ
+## SECURITÉ & CYBERSECURITÉ
 ### L'authentification double facteur expliquée à tous
 À l'heure où les fuites de données se succèdent, la sécurisation de ses différents comptes en ligne est l'affaire de tous. Et parmi les méthodes les plus simples à mettre en place, l'authentification à double facteur demeure parmi les plus efficaces.
 https://www.clubic.com/antivirus-securite-informatique/actualite-853735-authentification-double-facteur-expliquee.html
@@ -71,7 +71,7 @@ L’organisation Security Without Border explique avoir découvert des logiciels
 https://www.zdnet.fr/actualites/exodus-des-spywares-gouvernementaux-tra-nent-sur-le-google-play-store-39882879.htm#xtor%3D123456
 Source : ZDNet
 
-## CONFIDENTIALITÉ & VIE PRIVEE
+## CONFIDENTIALITÉ & VIE PRIVÉE
 ### Présentation du Rapport d’activité 2018 et des enjeux 2019 de la CNIL
 L’entrée en application du RGPD a marqué une prise de conscience inédite des enjeux de protection des données auprès des professionnels et des particuliers.
 https://www.cnil.fr/fr/presentation-du-rapport-dactivite-2018-et-des-enjeux-2019-de-la-cnil
