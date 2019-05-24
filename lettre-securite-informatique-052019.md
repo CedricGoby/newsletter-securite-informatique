@@ -129,3 +129,9 @@ Source : ZDNet
 Cédric Goby - Institut National de la Recherche Agronomique - UMR AGAP  
 **Cette lettre est publiée sous la licence Attribution 4.0 International (CC BY 4.0)**  
 ![](https://i.creativecommons.org/l/by/4.0/80x15.png)
+
+---
+Découvrez les autres revues de presse !
+Revue de presse "Open source" : https://groupes.renater.fr/sympa/info/open-source
+Revue de presse "fablab" : https://groupes.renater.fr/sympa/info/fablab
+
