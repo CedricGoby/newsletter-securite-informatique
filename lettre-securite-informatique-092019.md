@@ -10,6 +10,11 @@ La migration vers Windows 10 n’a pas été réalisée par une entreprise sur t
 https://www.silicon.fr/windows-10-un-tiers-du-parc-entreprise-na-pas-encore-migre-257127.html
 Source : Silicon
 
+### OpenCTI – La solution libre pour traiter et partager la connaissance de la cybermenace
+Le projet OpenCTI (Open Cyber Threat Intelligence), développé par l’ANSSI en partenariat avec le CERT-EU, est un outil de gestion et de partage de la connaissance en matière d’analyse de la cybermenace (Threat Intelligence).
+https://www.ssi.gouv.fr/actualite/opencti-la-solution-libre-pour-traiter-et-partager-la-connaissance-de-la-cybermenace/
+Source : ANSSI
+
 ### L’ONU veut un moratoire pour la vente des logiciels d’espionnage  
 Aujourd'hui, les gouvernements peuvent agir en toute impunité, sans qu'aucune réglementation n'ait été mise en place.
 https://siecledigital.fr/2019/06/24/lonu-veut-un-moratoire-pour-la-vente-des-logiciels-despionnage/
