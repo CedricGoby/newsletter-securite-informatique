@@ -1,4 +1,4 @@
-# Revue de presse "sécurité informatique" du mois de septembre 2019
+# Revue de presse "sécurité informatique" du mois d'octobre 2019
 
 Cette revue de presse généraliste et mensuelle a pour but de sensibiliser le public aux problématiques de la sécurité informatique.
 Vous devez vous inscrire si vous souhaitez recevoir la lettre. Pour l'inscription (ou la désinscription) et la consultation des archives : https://groupes.renater.fr/sympa/arc/securite-informatique
