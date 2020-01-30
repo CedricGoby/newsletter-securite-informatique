@@ -350,7 +350,7 @@ https://www.france-universite-numerique-mooc.fr/courses/course-v1:inria+41015+se
 Source : FUN
 
 ---
-Cédric Goby - Institut National de la Recherche Agronomique - UMR AGAP  
+Cédric Goby - Institut national de la recherche pour l’agriculture, l’alimentation et l’environnement - UMR AGAP  
 **Cette lettre est publiée sous la licence Attribution 4.0 International (CC BY 4.0)**  
 ![](https://i.creativecommons.org/l/by/4.0/80x15.png)
 
