@@ -9,16 +9,25 @@
   "dc:format": "text/markdown",
   "dc:title": "Revue de presse sur la sécurité informatique",
   "dc:subject": "http://id.loc.gov/authorities/subjects/sh90001862",
-  "dc:date": "2023-09-17T14:51:31.5532Z",
+  "dc:date": "2023-09-30T05:44:24.4129Z",
   "dc:description": "Cette revue de presse généraliste et mensuelle a pour but de sensibiliser le public aux problématiques de la sécurité informatique.",
   "dc:publisher": [
     "http://viaf.org/viaf/3881157583857733970006",
     "http://viaf.org/viaf/314926296"
   ],
-  "dc:rights":"https://creativecommons.org/licenses/by/4.0/",
+  "dc:rights":"http://spdx.org/licenses/CC-BY-NC-SA-4.0.json",
   "dc:identifier": [
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-082023.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-092023.md",
+      "@type": "http://purl.org/dc/terms/URI",
+      "premis:hasMessageDigest": {
+        "@type": "premis:MessageDigest",
+        "premis:messageDigestAlgorithm": "SHA-256",
+        "premis:messageDigest": "7d2c2ce65eb7079e3ae266e90801667932dfd8a0ae281aa3562c7beea8098add"
+      }
+    },
+    {
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-082023.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -27,7 +36,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-062023.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-062023.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -36,7 +45,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-052023.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-052023.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -45,7 +54,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-042023.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-042023.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -54,7 +63,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-032023.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-032023.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -63,7 +72,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-022023.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-022023.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -72,7 +81,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-012023.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-012023.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -81,7 +90,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-112022.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-112022.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -90,7 +99,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-102022.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-102022.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -99,7 +108,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-092022.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-092022.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -108,7 +117,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-082022.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-082022.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -117,7 +126,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-062022.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-062022.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -126,7 +135,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-052022.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-052022.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -135,7 +144,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-042022.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-042022.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -144,7 +153,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-032022.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-032022.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -153,7 +162,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-022022.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-022022.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -162,7 +171,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-012022.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-012022.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -171,7 +180,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/README.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/README.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -180,7 +189,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-112021.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-112021.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -189,7 +198,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-102021.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-102021.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -198,7 +207,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-092021.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-092021.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -207,7 +216,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-082021.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-082021.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -216,7 +225,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-062021.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-062021.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -225,7 +234,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-052021.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-052021.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -234,7 +243,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-042021.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-042021.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -243,7 +252,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-032021.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-032021.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -252,7 +261,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-022021.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-022021.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -261,7 +270,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-012021.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-012021.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -270,7 +279,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-112020.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-112020.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -279,7 +288,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-102020.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-102020.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -288,7 +297,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-092020.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-092020.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -297,7 +306,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-082020.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-082020.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -306,7 +315,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-062020.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-062020.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -315,7 +324,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-052020.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-052020.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -324,7 +333,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-042020.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-042020.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -333,7 +342,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-032020.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-032020.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -342,7 +351,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-022020.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-022020.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -351,7 +360,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-012020.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-012020.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -360,7 +369,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-112019.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-112019.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -369,7 +378,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-102019.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-102019.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -378,7 +387,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-092019.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-092019.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -387,7 +396,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-062019.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-062019.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -396,7 +405,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-052019.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-052019.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -405,7 +414,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-042019.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-042019.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -414,7 +423,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-032019.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-032019.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -423,7 +432,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-022019.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-022019.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -432,7 +441,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-012019.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-012019.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -441,7 +450,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-122018.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-122018.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -450,7 +459,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-112018.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-112018.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -459,7 +468,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-102018.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-102018.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -468,7 +477,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/lettre-securite-informatique-092018.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-092018.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
@@ -477,7 +486,7 @@
       }
     },
     {
-      "@value": "https://github.com/CedricGoby/newsletter-securite-informatique/blob/master/LICENCE.md",
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/LICENCE.md",
       "@type": "http://purl.org/dc/terms/URI",
       "premis:hasMessageDigest": {
         "@type": "premis:MessageDigest",
