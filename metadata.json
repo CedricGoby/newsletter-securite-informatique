@@ -9,7 +9,7 @@
   "dc:format": "text/markdown",
   "dc:title": "Revue de presse sur la sécurité informatique",
   "dc:subject": "http://id.loc.gov/authorities/subjects/sh90001862",
-  "dc:date": "2025-02-28T09:51:38.728230",
+  "dc:date": "2025-03-31T13:49:59.550387",
   "dc:description": "Articles de presse ayant pour objet la sécurité informatique",
   "dc:publisher": [
     "http://viaf.org/viaf/3881157583857733970006",
@@ -17,6 +17,15 @@
   ],
   "dc:rights":"http://spdx.org/licenses/CC-BY-NC-SA-4.0.json",
   "dc:identifier": [
+    {
+      "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-032025.md",
+      "@type": "http://purl.org/dc/terms/URI",
+      "premis:hasMessageDigest": {
+        "@type": "premis:MessageDigest",
+        "premis:messageDigestAlgorithm": "SHA-256",
+        "premis:messageDigest": "cf5cd597300fe5c94d4442d30225166a1a2b917d14f75bff7f0318722ef58b63"
+      }
+    },
     {
       "@value": "https://gitlab.com/CedricGoby/newsletter-securite-informatique/-/blob/master/lettre-securite-informatique-022025.md",
       "@type": "http://purl.org/dc/terms/URI",
